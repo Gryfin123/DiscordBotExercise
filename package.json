@@ -1,0 +1,10 @@
+{
+    "name": "Angelotron",
+    "version": "0.0.1",
+    "description": "Boze miej mnie w opiece",
+    "main": "main.js",
+    "author": "Krystian Maraszek",
+    "dependencies": {
+        "discord.js": "^11.5.1"
+    }
+}
